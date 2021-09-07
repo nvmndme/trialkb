@@ -269,11 +269,6 @@ F 3 "~" H 3150 2600 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	3250 2200 3250 2300
-Wire Wire Line
-	3250 2300 3500 2300
-Connection ~ 3500 2300
-Wire Wire Line
 	3250 2600 3250 2500
 Wire Wire Line
 	3250 2500 3500 2500
@@ -592,4 +587,9 @@ Text GLabel 5150 2700 2    50   Input ~ 0
 ROW1
 Text GLabel 5150 4000 2    50   Input ~ 0
 ROW0
+Wire Wire Line
+	3250 2200 3250 2300
+Wire Wire Line
+	3250 2300 3500 2300
+Connection ~ 3500 2300
 $EndSCHEMATC

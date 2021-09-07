@@ -584,4 +584,12 @@ ROW0
 Text GLabel 7250 5400 0    50   Input ~ 0
 ROW1
 Connection ~ 8400 1850
+Text GLabel 5150 2500 2    50   Input ~ 0
+COL1
+Text GLabel 5150 2600 2    50   Input ~ 0
+COL0
+Text GLabel 5150 2700 2    50   Input ~ 0
+ROW1
+Text GLabel 5150 4000 2    50   Input ~ 0
+ROW0
 $EndSCHEMATC
