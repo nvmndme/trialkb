@@ -335,7 +335,7 @@ U 1 1 613A52DB
 P 3650 2100
 F 0 "SW1" H 3650 2385 50  0000 C CNN
 F 1 "SW_Push" H 3650 2294 50  0000 C CNN
-F 2 "random-keyboard-parts:Reset_Pretty" H 3650 2300 50  0001 C CNN
+F 2 "random-keyboard-parts:SKQG-1155865" H 3650 2300 50  0001 C CNN
 F 3 "~" H 3650 2300 50  0001 C CNN
 	1    3650 2100
 	1    0    0    -1  
@@ -584,4 +584,12 @@ ROW0
 Text GLabel 7250 5400 0    50   Input ~ 0
 ROW1
 Connection ~ 8400 1850
+Text GLabel 5150 2500 2    50   Input ~ 0
+COL1
+Text GLabel 5150 2600 2    50   Input ~ 0
+COL0
+Text GLabel 5150 2700 2    50   Input ~ 0
+ROW1
+Text GLabel 5150 4000 2    50   Input ~ 0
+ROW0
 $EndSCHEMATC
